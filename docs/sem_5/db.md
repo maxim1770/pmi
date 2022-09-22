@@ -21,9 +21,9 @@
 
 
 
-[db]: ../../../src/sem_5/db/data_base/data_base.db
-[lab_1_var_1]: ../../../src/sem_5/db/labs/lab_1/variant_1.sql
+[db]: ../../src/sem_5/db/data_base/data_base.db
+[lab_1_var_1]: ../../src/sem_5/db/labs/lab_1/variant_1.sql
 
-[create]: ../../../media/sem_5/db/create.docx
-[insert]: ../../../media/sem_5/db/insert.docx
-[book]: ../../../media/sem_5/db/sql.docx
+[create]: ../../media/sem_5/db/create.docx
+[insert]: ../../media/sem_5/db/insert.docx
+[book]: ../../media/sem_5/db/sql.docx

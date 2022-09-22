@@ -35,22 +35,24 @@
 
 ##### Полезные ссылки для решения 
 * [Командные файлы Windows](https://ab57.ru/cmd.html)
+* [Список команд Windows ( Windows CMD ) с описанием и примерами](https://ab57.ru/cmdlist.html)
 * [Команда DIR](https://ab57.ru/cmdlist/dir.html)
-* [Какие-то лабы с решениями](https://studfile.net/preview/4600069/)
+* [Какие-то лабы с решениями](https://studfile.net/preview/4600069/)  
+* Ютуб: [Как писать скрипты на языке BATCH?](https://www.youtube.com/watch?v=J4pkFey3DlY)
 
 
 
 
 
-[task_1_1]: ../../../media/sem_5/os/labs/lab_1/1-1-unix-komandnaja-obolochka-bash-prostejshie-skriptypdf.pdf
-[task_1_2]: ../../../media/sem_5/os/labs/lab_1/1-2-windows-paketnye-fajly-prostejshie-operatsii-nad-fajlami-i-katalogamipdf.pdf
+[task_1_1]: ../../media/sem_5/os/labs/lab_1/1-1-unix-komandnaja-obolochka-bash-prostejshie-skriptypdf.pdf
+[task_1_2]: ../../media/sem_5/os/labs/lab_1/1-2-windows-paketnye-fajly-prostejshie-operatsii-nad-fajlami-i-katalogamipdf.pdf
 
 
-[laba_1_1_5]: ../../../src/sem_5/os/labs/lab_1/lab_1_1/num_5.sh
+[laba_1_1_5]: ../../src/sem_5/os/labs/lab_1/lab_1_1/num_5.sh
 
-[laba_1_1_6]: ../../../src/sem_5/os/labs/lab_1/lab_1_1/num_6.sh
+[laba_1_1_6]: ../../src/sem_5/os/labs/lab_1/lab_1_1/num_6.sh
 
 
-[laba_1_2_5]: ../../../src/sem_5/os/labs/lab_1/lab_1_2/num_5.bat
+[laba_1_2_5]: ../../src/sem_5/os/labs/lab_1/lab_1_2/num_5.bat
 
-[laba_1_2_6]: ../../../src/sem_5/os/labs/lab_1/lab_1_2/num_6.bat
+[laba_1_2_6]: ../../src/sem_5/os/labs/lab_1/lab_1_2/num_6.bat
